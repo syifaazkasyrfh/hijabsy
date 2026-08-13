@@ -11,3 +11,9 @@ The Pexels page identifies the subject as an Arab woman and marks the photo Free
 3. Hijab Tips
 https://www.pexels.com/photo/woman-in-traditional-wear-doing-a-video-vlog-8993924/
 The Pexels page describes a Muslim woman in hijab recording a vlog and marks the photo Free to use.
+
+
+4. Soft Everyday (hero card)
+https://www.pexels.com/photo/extreme-close-up-shot-of-a-woman-wearing-8610132/
+The Pexels page marks this real photo “Free to use” and its tags include Pashmina.
+The website uses the Pexels CDN image directly so the card displays a real photo rather than a placeholder.
