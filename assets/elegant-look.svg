@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f3f1e9"/><stop offset="1" stop-color="#e6ede4"/></linearGradient></defs>
+<rect width="900" height="900" fill="url(#bg)"/>
+
+<rect x="150" y="250" width="600" height="500" rx="28" fill="#f6f1e9"/>
+<path d="M190 680 L300 390 L410 680Z" fill="#c7b8a8"/>
+<path d="M340 680 L470 330 L600 680Z" fill="#8c9a87"/>
+<path d="M520 680 L635 410 L730 680Z" fill="#d8c8b9"/>
+<path d="M225 690 H675" stroke="#4d5c4d" stroke-width="10"/>
+<circle cx="720" cy="190" r="70" fill="#d9f06d" opacity=".2"/>
+
+<text x="450" y="805" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#24352a">Elegant Look</text>
+</svg>

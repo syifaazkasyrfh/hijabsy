@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100">
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#f3f0e8"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
+<rect width="900" height="1100" fill="url(#g)"/>
+<circle cx="110" cy="140" r="85" fill="#d9f06d" opacity=".18"/>
+<circle cx="780" cy="880" r="150" fill="#8aa58e" opacity=".12"/>
+<path d="M0 880 Q220 760 450 830 Q680 900 900 770 V1100 H0Z" fill="#dfe6dc"/>
+<!-- back of head and hijab -->
+<ellipse cx="450" cy="330" rx="150" ry="175" fill="#a9b89d"/>
+<path d="M300 360 Q450 430 600 360 L650 690 Q540 820 450 850 Q360 820 250 690Z" fill="#a9b89d"/>
+<path d="M310 390 Q450 520 590 390" fill="none" stroke="#ffffff" stroke-width="18" opacity=".28"/>
+<path d="M285 520 Q450 650 615 520" fill="none" stroke="#ffffff" stroke-width="14" opacity=".2"/>
+<!-- shoulders / clothing -->
+<path d="M230 1100 Q235 820 325 735 Q390 690 450 690 Q510 690 575 735 Q665 820 670 1100Z" fill="#f5f3ed"/>
+<path d="M365 735 Q450 790 535 735" fill="none" stroke="#ffffff" stroke-width="12" opacity=".35"/>
+<text x="450" y="1015" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#26362b">Soft Everyday</text>
+<text x="450" y="1055" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#667067">No face • modest back-view editorial</text>
+</svg>

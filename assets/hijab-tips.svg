@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f3f1e9"/><stop offset="1" stop-color="#e6ede4"/></linearGradient></defs>
+<rect width="900" height="900" fill="url(#bg)"/>
+
+<rect x="125" y="240" width="650" height="500" rx="35" fill="#f8f6f0"/>
+<path d="M220 650 C220 500 250 390 330 330" fill="none" stroke="#c7bba9" stroke-width="70" stroke-linecap="round"/>
+<path d="M370 650 C370 490 420 400 500 350" fill="none" stroke="#aebfa9" stroke-width="70" stroke-linecap="round"/>
+<path d="M520 650 C520 510 585 425 665 390" fill="none" stroke="#d6c8b9" stroke-width="70" stroke-linecap="round"/>
+<circle cx="690" cy="180" r="75" fill="#d9f06d" opacity=".2"/>
+
+<text x="450" y="805" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#24352a">Hijab Tips</text>
+</svg>
