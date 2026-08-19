@@ -44,3 +44,39 @@ a{text-decoration:none;color:inherit}.navbar{height:82px;padding:0 6vw;display:f
 .real-hero-card .art-label {
   z-index: 2;
 }
+
+
+/* =========================================================
+   KARAOKE HIGHLIGHT
+   ========================================================= */
+.karaoke-word {
+  transition:
+    background-color .12s ease,
+    color .12s ease,
+    text-shadow .12s ease;
+  border-radius: .22em;
+}
+
+.karaoke-word.active {
+  background: var(--lime);
+  color: var(--green);
+  padding: .04em .16em;
+  margin: 0 -.16em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  text-shadow: none;
+}
+
+.karaoke-reading {
+  transition: filter .2s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .karaoke-word {
+    transition: none;
+  }
+}
+
+
+/* KStudio: marquee 2x lebih cepat */
+.marquee div{animation-duration:11s !important;}
